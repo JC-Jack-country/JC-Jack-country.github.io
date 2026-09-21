@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jack Country's Official Author Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background-color: #1a365d;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #1a365d;
+            border-bottom: 2px solid #1a365d;
+            padding-bottom: 5px;
+        }
+        .book-section {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-left: 5px solid #1a365d;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Jack Country's Library</h1>
+        <p>Official Website for Historical Fiction & Adventure Books</p>
+    </header>
+
+    <div class="container">
+        <h2>About the Author</h2>
+        <p>Welcome! I am an author who loves American history, classic machinery, and true survival stories. Here you can find updates on my latest writing projects.</p>
+
+        <h2>My Current Book</h2>
+        <div class="book-section">
+            <h3>A Story of a Soldier</h3>
+            <p><strong>Setting:</strong> Pennsylvania, April 1861</p>
+            <p><strong>The Plot:</strong> Follow Nick and his family as the American Civil War arrives at their front door, forcing them to join the Union Army to fight for their country.</p>
+        </div>
+
+        <h2>Upcoming Projects</h2>
+        <p>Stay tuned for more books featuring epic adventures, wilderness survival, and historic machines!</p>
+    </div>
+
+</body>
+</html>
